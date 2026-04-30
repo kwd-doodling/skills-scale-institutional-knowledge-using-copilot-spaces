@@ -32,3 +32,16 @@ Quality and learning are built into the process through rigorous acceptance crit
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Steps for deploying, verifying, and announcing releases |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Running retrospectives and turning learnings into action items |
 | [Roles and Personas](octoacme-roles-and-personas.md) | Detailed responsibilities and communication patterns for each role |
+
+### Checklists
+
+| Checklist | Description |
+|---|---|
+| [Project Initiation Checklist](checklists/project-initiation-checklist.md) | One-pager, stakeholder alignment, and decision gate steps |
+| [Release & Deployment Checklist](checklists/release-and-deployment-checklist.md) | Pre-release requirements and post-release verification steps |
+
+### Templates
+
+| Template | Description |
+|---|---|
+| [Weekly Status Template](templates/weekly-status-template.md) | Reusable template for weekly stakeholder status updates |
