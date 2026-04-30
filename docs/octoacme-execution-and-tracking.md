@@ -38,3 +38,6 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+> Use [docs/templates/weekly-status-template.md](templates/weekly-status-template.md) for weekly stakeholder status updates.  
+> See [docs/checklists/release-and-deployment-checklist.md](checklists/release-and-deployment-checklist.md) when preparing a release.

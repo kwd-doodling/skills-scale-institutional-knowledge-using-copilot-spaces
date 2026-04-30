@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+> See [docs/checklists/project-initiation-checklist.md](checklists/project-initiation-checklist.md) for the full initiation checklist (one-pager, stakeholder alignment, and decision gate).
